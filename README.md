@@ -4,10 +4,6 @@ It's a website that generate password randomly as per users password length
 
 <br>
 
-## 📌 **Live Site URL:** <a href="https://omi-password-generator.netlify.app/">**Visit Now** 🚀</a>
-
-<br>
-
 ## 📌 Tech Stack
 
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
@@ -18,4 +14,4 @@ It's a website that generate password randomly as per users password length
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Onkar Mahindrakar](https://www.linkedin.com/in/onkar-mahindrakar-66187422b/)
+- **LinkedIn** - (binduMudholkar/https://www.linkedin.com/in/himbindu-mudholkar-184a922b6?utm_source=share_via&utm_content=profile&utm_medium=member_android)
